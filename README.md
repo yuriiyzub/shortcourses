@@ -1,4 +1,4 @@
-# Repository with practice and certificates of my short courses and trainings 💻💡
+# Repository with practice and certificates of courses and internships 💻💡
 
 # 1. Effective work with defects and bug reports. Lecture with exam.
 
